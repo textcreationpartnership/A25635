@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to Wild, or, A Poem upon the imprisonment of Robert Wild D.D. in Cripplegate by a brother of the same gongregation [sic].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25635</idno>
+            <idno type="STC">Wing A3460</idno>
+            <idno type="STC">ESTC R34198</idno>
+            <idno type="EEBO-CITATION">13977751</idno>
+            <idno type="OCLC">ocm 13977751</idno>
+            <idno type="VID">102077</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25635)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102077)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1560:58)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to Wild, or, A Poem upon the imprisonment of Robert Wild D.D. in Cripplegate by a brother of the same gongregation [sic].</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>166-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:102077:1"/>
+            <head>An Anſwer to WILD. OR, A POEM, Upon the Impriſonment of <hi>Robert Wild</hi> D. D. in <hi>Cripplegate.</hi>
+            </head>
+            <byline>By a Brother of the ſame Congregation.</byline>
+            <lg>
+               <l>
+                  <seg rend="decorInit">D</seg>Ear Friend and <hi>Brother</hi> in the fleſh this <hi>page</hi>
+               </l>
+               <l>I ſend thee <hi>lying,</hi> in the <hi>Cripple's Cage:</hi>
+               </l>
+               <l>Not that I Envie, but <hi>Rejoyce</hi> that we</l>
+               <l>Are <hi>Fellow-feelers</hi> of one <hi>Miſery.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Old <hi>Biſhop Gout,</hi> by's Officer <hi>Old Ale,</hi>
+               </l>
+               <l>Hath ſent thee limping to the <hi>Black pot Goal:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But (<hi>fie,</hi> that <hi>Saints</hi> each other ſhould abuſe</l>
+               <l>So much ith' thing they all ſo often uſe?)</l>
+               <l>As I was <hi>Preaching</hi> on the <hi>ſecret point</hi>
+               </l>
+               <l>Of <hi>Venery,</hi> I did but ſlip a <hi>joint</hi>
+               </l>
+               <l>Too far, when ſtraight old <hi>Biſhop pox,</hi> cry'd ceaſe,</l>
+               <l>You do encroach upon my <hi>Dioceſs,</hi>
+               </l>
+               <l>Since which I have ſo rattled in the <hi>Noſe,</hi>
+               </l>
+               <l>That all the <hi>diſaffected</hi> do ſuppoſe</l>
+               <l>It, as a <hi>ſcandal</hi> to the <hi>Brethren,</hi> and ſay</l>
+               <l>The <hi>Presbyterian Tone</hi> firſt came that way:</l>
+               <l>Some call me <hi>Popiſh Prelat,</hi> and proteſt,</l>
+               <l>My <hi>No-noſe</hi> is the onely <hi>mark</hi> o'th' <hi>beaſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Dear <hi>brother,</hi> thus our puniſhments agree;</l>
+               <l>There is more difference 'twixt <hi>Calamy</hi>
+               </l>
+               <l>And you: ſome <hi>Doctors</hi> hold ours be the ſame,</l>
+               <l>And that the <hi>Pox</hi> as well as <hi>Gout</hi> you claim.</l>
+               <l>But I am ſilent; though you roar your <hi>Gout;</hi>
+               </l>
+               <l>
+                  <hi>Saints</hi> ſhould be wiſer then to bring all out.</l>
+            </lg>
+            <lg>
+               <l>Yet why ſhould we rail at the <hi>Biſhops?</hi> Can</l>
+               <l>You blame the Ingenuous <hi>Husbandman,</hi>
+               </l>
+               <l>For weeding his Corn, for driving to Pound</l>
+               <l>The Cattle which do treſpaſs on his ground?</l>
+               <l>Had we not medled with <hi>forbidden things,</hi>
+               </l>
+               <l>Nor broke the juſt <hi>Commandement of Kings,</hi>
+               </l>
+               <l>But ſtickled for the <hi>Churches ſettlement,</hi>
+               </l>
+               <l>As much as we did for the <hi>Covenant,</hi>
+               </l>
+               <l>We made to break it; then your <hi>State,</hi> our <hi>Name</hi>
+               </l>
+               <l>Of <hi>Saints</hi> had ſhined with eternal ſame,</l>
+               <l>
+                  <hi>Baxter</hi> ſhould then have been the <hi>burning light,</hi>
+               </l>
+               <l>For men to ſee to <hi>pray</hi> by, not to <hi>fight.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Could we diſgariſon the <hi>Scottiſh Divel,</hi>
+               </l>
+               <l>Be <hi>Nonconformiſts</hi> only unto Evil;</l>
+               <l>Repent of falſe Oaths, lies, Rebellion, ſwear</l>
+               <l>
+                  <hi>Conformity</hi> to <hi>God,</hi> and's <hi>Houſe of Prayer;</hi>
+               </l>
+               <l>Then <hi>Calamy</hi> ſhould ne'r be th' <hi>fixed Star</hi>
+               </l>
+               <l>In <hi>New gate</hi> Hell, but in the Hemiſphere;</l>
+               <l>Nor <hi>Wild</hi> a poor <hi>Erratick</hi> finding no <hi>place</hi>
+               </l>
+               <l>For's Family, nor yet it ſeems for <hi>Grace:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thou <hi>Gouty Goal-bird,</hi> could thy <hi>red-fac'd-Muſe</hi>
+               </l>
+               <l>No other ſtuff into thy <hi>Pate</hi> infuſe,</l>
+               <l>Than <hi>Libelling?</hi> Can <hi>Nonconformiſts</hi> be</l>
+               <l>So <hi>Conformable</hi> to iniquitie?</l>
+               <l>VVell haſt thou ſaid, <hi>Theſe Presbyterian Kis-ſl-aves</hi>
+               </l>
+               <l>
+                  <hi>Will ne'r leave back-biting, though in their Graves:</hi>
+               </l>
+               <l>Their <hi>Preaching</hi> is no better, and their <hi>Prayers</hi>
+               </l>
+               <l>Do nought but ſet's together by the ears:</l>
+               <l>Pull down, ſet up, ſet up, pull down's the cry.</l>
+               <l>Which flows <hi>ſtill</hi> from ne'r <hi>ſtill Presbytery.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let <hi>Egypt's plagues</hi> be mentioned no more,</l>
+               <l>One <hi>Presbyter's</hi> more miſchief than a ſcore;</l>
+               <l>If <hi>Puritans</hi> inſtead of Frogs had fell,</l>
+               <l>
+                  <hi>Pharaoh</hi> at firſt had let go <hi>Iſrael.</hi>
+               </l>
+               <l>Like Satan's <hi>It is written,</hi> they can bring</l>
+               <l>A Text of <hi>Scripture</hi> for the greateſt <hi>Sin.</hi>
+               </l>
+               <l>But prithee what <hi>Wild</hi> fancy made thee <hi>rime,</hi>
+               </l>
+               <l>That <hi>lurching</hi> of a <hi>Sermon</hi> is the <hi>Crime</hi>
+               </l>
+               <l>
+                  <hi>Canonical?</hi> Alas, didſt ever know,</l>
+               <l>The <hi>Goſpel-fighting Miniſters</hi> do ſo?</l>
+               <l>The <hi>Lords Prayer</hi> and the <hi>Common Prayer</hi> they hate,</l>
+               <l>Becauſe not forg'd in a <hi>Presbyterian pate:</hi>
+               </l>
+               <l>So have I ſeen <hi>Bears</hi> lick their <hi>Whelps</hi> and roar</l>
+               <l>At purer Beaſts; thus <hi>Babylons old Whore,</hi>
+               </l>
+               <l>Swadling her <hi>Baſtard-children,</hi> doth deny</l>
+               <l>An Entertainment to <hi>chaſt honeſty.</hi>
+               </l>
+               <l>Is <hi>Preaching down,</hi> and ſilenced becauſe</l>
+               <l>The <hi>Presbyters</hi> mayn't bawl againſt the Laws?</l>
+               <l>Nor rail at <hi>Church</hi> and <hi>State,</hi> nor bait the <hi>King</hi>
+               </l>
+               <l>With <hi>Pulpit-bulls,</hi> like <hi>Dogs</hi> a <hi>Bear-baiting.</hi>
+               </l>
+               <l>So <hi>Wranglers, Cheats,</hi> and <hi>Cozeners</hi> may ſay,</l>
+               <l>'Cauſe they ſhut out, <hi>fair Gameſters</hi> do not play:</l>
+               <l>So <hi>Quacksalvers</hi> and <hi>Mountebanks</hi> proclaim,</l>
+               <l>No Phyſick's like to theirs, though of the ſame,</l>
+               <l>Once come to hear and they ſhall underſtand,</l>
+               <l>There ne'r was better <hi>Preaching</hi> in the Land,</l>
+               <l>Nor <hi>Prayers</hi> ſo well compos'd with <hi>words</hi> &amp; matter,</l>
+               <l>(Not like unto the <hi>Puritanick Chatter</hi>)</l>
+               <l>Where <hi>Hum, ha,</hi> and <hi>Oh</hi> bear all the <hi>ſway,</hi>
+               </l>
+               <l>And true <hi>Devotion</hi> is a <hi>Caſt-away.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But ceaſe my <hi>Muſe,</hi> the <hi>Presbyterian See</hi>
+               </l>
+               <l>Will fall with weight of it's own <hi>Villany:</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
